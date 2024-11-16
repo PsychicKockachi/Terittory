@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap");
+
+:root {
+    --animate-duration: 500ms;
+    --animate-delay: 10s;
+}
+
+img {
+    width: 70px;
+    height: 25px;
+}
+
+span {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.killer {
+    color: rgb(255, 65, 65);
+}
+
+.victim {
+    color: rgb(5, 228, 5);
+}
+
+.container {
+    height: 200px;
+    overflow: hidden;
+}
+
+#killfeed {
+    background-color: rgba(21, 21, 21, 0.705);
+    border-radius: 8px;
+    letter-spacing: 1px;
+    border: 1px solid black;
+}
+
+#countdown {
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 86px;
+    color: white;
+    display: none;
+}
