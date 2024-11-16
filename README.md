@@ -1,2 +1,2 @@
 # Terittory
-Territory
+An enhanced version of SY BOGS
