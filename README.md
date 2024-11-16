@@ -2,9 +2,10 @@
 An ESX based TURF and TERRITORY script for FIVEM
 
 # Features 
-• KILLFEED    
-• TIMER      
+• Killfeed
+• Timer  
 • Automatically sends announcemnt
+• Gang Job based 
 
 # Commands
 • /startzone - To Start zone       
