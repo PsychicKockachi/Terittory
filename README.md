@@ -6,12 +6,12 @@ An ESX based TURF and TERRITORY script for FIVEM
 • TIMER
 • Automatically sends announcemnt
 
-# COMMANDS
+# Commands
 • /startzone - To Start zone
 • /stopzone - To Stop Zone
 • /turf - To send Announcement
 
-# dependencies 
+# Dependencies 
   es_extended
   ox_lib
 
